@@ -2,6 +2,10 @@
 
 > "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives—for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
 
+This comprehensive training program emphasizes "real-world experiences" through "multiple capstone projects". It provides professional-level education in end-to-end data science (E2EDS), delivered by a research university and leading tech companies specializing in GPU-Accelerated Computing, Data, AI, and Automation. The program also provided "eligibility for advanced degrees".
+
+The curriculum is structured around Monica Rogati’s "The Data Science Hierarchy of Needs", ensuring a solid foundation in data science principles and their practical applications:
+
 ![pl](images/Full-Stack_Full-Pipeline_E2E_Data_Scientist_Pre_GenAIwithLLMs.jpeg)
 
 ## Trainings and Education:
