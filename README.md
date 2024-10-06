@@ -2,7 +2,7 @@
 
 > "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives—for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
 
-![pl](images/Full-Stack_Full-Pipeline_E2E_Data_Scientist_Pre_GenAIwithLLMs.jpg)
+![pl](images/Full-Stack_Full-Pipeline_E2E_Data_Scientist_Pre_GenAIwithLLMs.jpeg)
 
 ## Trainings and Education:
 
