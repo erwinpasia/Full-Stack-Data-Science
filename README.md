@@ -13,7 +13,7 @@ The curriculum is structured around Monica Rogati’s "The Data Science Hierarch
 ![NVIDIA Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Nvidia.jpeg)
 ## NVIDIA Deep Learning Institute
 - **Non-Degree**  
-Advanced Technical Workshops in "GPU-Accelerated" Generative AI, Data Science and HPC  
+Advanced Technical Workshops in "GPU-Accelerated" Generative AI, Data Science and HPC (High Performance Computing)  
 **2021 - Present**
 
 - **Instructors:** NVIDIA Experts-led Training (GTC Live and Virtual) thru Nvidia DLI platform.
@@ -25,7 +25,7 @@ Advanced Technical Workshops in "GPU-Accelerated" Generative AI, Data Science an
   - [Getting Started in AI with Jetson (Edge AI)](https://learn.nvidia.com/certificates?id=c2b5e792bba44971a17ab524d58fc9c8&trk)
 
 **Skills:**  
-Data Science · RAPIDS · Python (Programming Language) · C++ · CUDA · Pandas (Software) · NumPy · Matplotlib · Scikit-learn · SciPy · PyTorch · TensorFlow · cuPy · cuDF · cuML · cuGraph
+Data Science · RAPIDS · Python (Programming Language) · C++ · CUDA · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy · PyTorch · TensorFlow · cuPy · cuDF · cuML · cuGraph
 
 ---
 ![Imperial College London Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Imperial_College_London.jpeg)
@@ -58,7 +58,7 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 - **Instructors:** IBM Experts-led Machine Learning & AI Engineering Professional Training thru Coursera Learning Platform.
 
 **Skills:**  
-Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied Probability · Statistics · Machine Learning · Pandas (Software) · Matplotlib · NumPy · SciPy · Scikit-learn · Supervised Learning · Unsupervised Learning · Neural Networks (CNN) · Recurrent Neural Networks (RNN) · Deep Learning · Computer Vision · OpenCV· Pillow· Keras· PyTorch· TensorFlow
+Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied Probability · Statistics · Machine Learning · Pandas (Software) · Matplotlib · NumPy · SciPy · Scikit-Learn · Supervised Learning · Unsupervised Learning · Convolutional Neural Networks (CNN) · Recurrent Neural Networks (RNN) · Deep Learning · Computer Vision · OpenCV · Pillow · Keras · PyTorch · TensorFlow
 
 ---
 ![IBM Training Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg)
@@ -69,7 +69,7 @@ Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied
 - **Instructors:** IBM Experts-led Data Scientist & Advanced Data Analytics Professional Training thru Coursera Learning Platform.
 
 **Skills:**  
-Analytical Skills· Data Governance· Exploratory Data Analysis· Linear Algebra· Multivariable Calculus· Applied Probability· Statistics· Machine Learning· Pandas (Software)· NumPy· Matplotlib· Scikit-learn· SciPy· Supervised Learning· Unsupervised Learning
+Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Probability · Statistics · Statistical Analysis · Hypothesis Testing · ANOVA · Python (Programming Language) · Jupyter Notebook · Pandas (Software) · NumPy · SciPy · Matplotlib · Seaborn · Folium · Flask · Data Science · Bokeh Visualization Library · Machine Learning · Scikit-Learn · Supervised Learning · Unsupervised Learning
 
 ---
 ![Google Career Certificates Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg)
@@ -91,7 +91,7 @@ Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance�
 - **Instructors:** IBM Experts-led Data Warehouse Architecture & Big Data Engineering Professional Training thru Coursera Learning Platform.
 
 **Skills:**  
-Data Governance· Exploratory Data Analysis· Data Architecture· Data Engineering· Data Modeling· Data Warehouse Architecture· Principal Component Analysis· SQL· NoSQL Databases: MongoDB, Cassandra, Azure Cosmos DB, IBM Db2, MySQL, PostgreSQL, MariaDB, Neo4j Graph Database, ETL/ELT: Apache Nifi, Apache Kafka, Big Data: ELT, Apache Spark, Transform Load (ETL) - Apache Airflow - Apache Kafka - Big Data - ELT - MongoDB - Cassandra - Azure Cosmos DB - IBM Db2 - MySQL - PostgreSQL - MariaDB - Neo4j Graph Database
+Data Governance · Exploratory Data Analysis · Data Architecture · Data Engineering · Data Modeling · Data Warehouse Architecture · Principal Component Analysis · SQL · NoSQL · Python (Programming Language) · Cassandra · Scala · IBM Db2 · MySQL · PostgreSQL · MongoDB · Extract, Transform, Load (ETL) · Apache Airflow · Apache Kafka · Big Data · ELT · MapReduce · Hadoop · Machine Learning · Pandas (Software) · NumPy · Matplotlib · SciPy · Scikit-Learn · Apache Spark
 
 ---
 ![Google Career Certificates Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg)
@@ -102,4 +102,4 @@ Data Governance· Exploratory Data Analysis· Data Architecture· Data Engineeri
 - **Instructors:** Google SREs-led IT Automation & Site Reliability Engineering Professional Training thru Coursera Learning Platform.
 
 **Skills:**  
-Python (Programming Language)· IT Automation· DevOps: Continuous Integration and Continuous Delivery (CI/CD) Configuration Management: Git, GitHub, Puppet (Software), Containerization: Kubernetes, Google Cloud Platform (GCP), Google Kubernetes Engine (GKE)
+Python (Programming Language) · IT Automation · DevOps · Continuous Integration and Continuous Delivery (CI/CD) · Configuration Management · Git · GitHub · Puppet (Software) · Containerization · Kubernetes · Google Cloud Platform (GCP) · Google Kubernetes Engine (GKE)
