@@ -10,6 +10,12 @@ The curriculum is structured around Monica Rogati’s "The Data Science Hierarch
 
 ## Trainings and Education:
 
+<p style="text-align:left">
+    <a href="https://learn.nvidia.com/en-us/training/instructor-led-workshops" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Nvidia.jpeg" alt="NVIDIA Deep Learning Institute"  />
+    </a>
+</p>
+
 ![NVIDIA Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Nvidia.jpeg)
 ## NVIDIA Deep Learning Institute
 - **Non-Degree**  
