@@ -66,7 +66,7 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 
 ---
 <p style="text-align:left">
-    <a href="https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate" target="_blank">
+    <a href="https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate-v2" target="_blank">
     <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
     </a>
 </p>
