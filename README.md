@@ -16,7 +16,6 @@ The curriculum is structured around Monica Rogati’s "The Data Science Hierarch
     </a>
 </p>
 
-![NVIDIA Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Nvidia.jpeg)
 ## NVIDIA Deep Learning Institute
 - **Non-Degree**  
 Advanced Technical Workshops in "GPU-Accelerated" Generative AI, Data Science and HPC (High Performance Computing)  
@@ -34,7 +33,12 @@ Advanced Technical Workshops in "GPU-Accelerated" Generative AI, Data Science an
 Data Science · RAPIDS · Python (Programming Language) · C++ · CUDA · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy · PyTorch · TensorFlow · cuPy · cuDF · cuML · cuGraph
 
 ---
-![Imperial College London Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Imperial_College_London.jpeg)
+<p style="text-align:left">
+    <a href="https://www.coursera.org/partners/imperial" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Imperial_College_London.jpeg" alt="Imperial College London Online"  />
+    </a>
+</p>
+
 ## Imperial College London
 - **Non-Degree**  
 [Imperial College London-trained in Machine Learning and Data Science Mathematics](https://www.coursera.org/account/accomplishments/specialization/certificate/7RY8S3CXD8E9)  
@@ -45,7 +49,12 @@ Data Science · RAPIDS · Python (Programming Language) · C++ · CUDA · Pandas
 Linear Algebra · Multivariable Calculus · Principal Component Analysis · Python Programming Language · NumPy · Scikit-learn · Matplotlib · SciPy
 
 ---
-![DeepLearning.AI Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_DeepLearningAI.jpeg)
+<p style="text-align:left">
+    <a href="https://www.deeplearning.ai/" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_DeepLearningAI.jpeg" alt="DeepLearning.AI"  />
+    </a>
+</p>
+
 ## DeepLearning.AI - MLOps | Machine Learning Engineering for Production
 - **Non-Degree**  
 [DeepLearning.AI-trained in MLOps | Machine Learning Engineering for Production](https://www.coursera.org/account/accomplishments/specialization/certificate/JT96BFTD2X97)  
@@ -56,7 +65,12 @@ Linear Algebra · Multivariable Calculus · Principal Component Analysis · Pyth
 TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Production Systems · Deployment Pipelines · Model and Data Pipelines · Concept Drift and Model Baseline · Feature Engineering · Monitoring and Maintenance · DevOps Practices · Human-Level Performance (HLP) · Project Scoping and Design
 
 ---
-![IBM Training Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg)
+<p style="text-align:left">
+    <a href="https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    </a>
+</p>
+
 ## IBM Training - AI & ML Engineering
 - **Advanced-Degree Credits Eligible**  
 [IBM Professionally-trained in AI/ML Engineering](https://www.credly.com/badges/029facfa-be3e-4016-b1d1-4070f9f8846c)  
@@ -67,7 +81,12 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied Probability · Statistics · Machine Learning · Pandas (Software) · Matplotlib · NumPy · SciPy · Scikit-Learn · Supervised Learning · Unsupervised Learning · Convolutional Neural Networks (CNN) · Recurrent Neural Networks (RNN) · Deep Learning · Computer Vision · OpenCV · Pillow · Keras · PyTorch · TensorFlow
 
 ---
-![IBM Training Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg)
+<p style="text-align:left">
+    <a href="https://www.ibm.com/training/badge/data-science-professional-certificate" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    </a>
+</p>
+
 ## IBM Training - Data Science & Advanced Data Analytics
 - **Advanced-Degree Credits Eligible**  
 [IBM Professionally-trained in Data Science](https://www.credly.com/badges/5811b8ae-de5c-4907-88a5-d4d6d5fab0a9)
@@ -78,7 +97,12 @@ Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied
 Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Probability · Statistics · Statistical Analysis · Hypothesis Testing · ANOVA · Python (Programming Language) · Jupyter Notebook · Pandas (Software) · NumPy · SciPy · Matplotlib · Seaborn · Folium · Flask · Data Science · Bokeh Visualization Library · Machine Learning · Scikit-Learn · Supervised Learning · Unsupervised Learning
 
 ---
-![Google Career Certificates Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg)
+<p style="text-align:left">
+    <a href="https://grow.google/certificates/data-analytics/" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg" alt="Google Career Certificates"  />
+    </a>
+</p>
+
 ## Google Career Certificates - Foundational Data Analytics
 - **Advanced-Degree Credits Eligible**  
 [Google Professionally-trained in Foundational Data Analytics ](https://www.credly.com/go/6Yln9QrsZlKYbZSgzeBeEA)
@@ -89,7 +113,12 @@ Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Alge
 Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance· Analytics· SQL· Excel· Tableau· BigQuery· R (Programming Language)· RStudio
 
 ---
-![IBM Training Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg)
+<p style="text-align:left">
+    <a href="https://www.ibm.com/training/badge/data-engineering-professional-certificate-v2" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    </a>
+</p>
+
 ## IBM Training - Data Warehouse & Big Data Engineering
 - **Advanced-Degree Credits Eligible**  
 [IBM Professionally-trained in Big Data Engineering](https://www.credly.com/badges/d2a32c7b-5b1e-4cd4-886c-3c3deeb6c78e)
@@ -100,7 +129,12 @@ Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance�
 Data Governance · Exploratory Data Analysis · Data Architecture · Data Engineering · Data Modeling · Data Warehouse Architecture · Principal Component Analysis · SQL · NoSQL · Python (Programming Language) · Cassandra · Scala · IBM Db2 · MySQL · PostgreSQL · MongoDB · Extract, Transform, Load (ETL) · Apache Airflow · Apache Kafka · Big Data · ELT · MapReduce · Hadoop · Machine Learning · Pandas (Software) · NumPy · Matplotlib · SciPy · Scikit-Learn · Apache Spark
 
 ---
-![Google Career Certificates Logo](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg)
+<p style="text-align:left">
+    <a href="https://grow.google/certificates/it-support/" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg" alt="Google Career Certificates"  />
+    </a>
+</p>
+
 ## Google Career Certificates - IT Automation with Python
 - **Advanced-Degree Credits Eligible**  
 [Google Professionally-trained in IT Automation with Python](https://www.credly.com/badges/47116441-c734-4380-b36e-36c4eab41073)  
