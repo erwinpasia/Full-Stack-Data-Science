@@ -16,7 +16,7 @@ The curriculum is structured around Monica Rogati’s "The Data Science Hierarch
     </a>
 </p>
 
-## NVIDIA Deep Learning Institute
+## [NVIDIA Deep Learning Institute](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
 - **Non-Degree**  
 Advanced Technical Workshops in "GPU-Accelerated" Generative AI, Data Science and HPC (High Performance Computing)  
 **2021 - Present**
