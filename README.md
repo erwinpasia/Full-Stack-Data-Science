@@ -39,7 +39,7 @@ Data Science · RAPIDS · Python (Programming Language) · C++ · CUDA · Pandas
     </a>
 </p>
 
-## Imperial College London
+## [Imperial College London](https://www.coursera.org/partners/imperial)
 - **Non-Degree**  
 [Imperial College London-trained in Machine Learning and Data Science Mathematics](https://www.coursera.org/account/accomplishments/specialization/certificate/7RY8S3CXD8E9)  
 
@@ -55,7 +55,7 @@ Linear Algebra · Multivariable Calculus · Principal Component Analysis · Pyth
     </a>
 </p>
 
-## DeepLearning.AI - MLOps | Machine Learning Engineering for Production
+## [DeepLearning.AI - MLOps | Machine Learning Engineering for Production](https://www.deeplearning.ai/)
 - **Non-Degree**  
 [DeepLearning.AI-trained in MLOps | Machine Learning Engineering for Production](https://www.coursera.org/account/accomplishments/specialization/certificate/JT96BFTD2X97)  
 
@@ -71,7 +71,7 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
     </a>
 </p>
 
-## IBM Training - AI & ML Engineering
+## [IBM Training - AI & ML Engineering](https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate-v2)
 - **Advanced-Degree Credits Eligible**  
 [IBM Professionally-trained in AI/ML Engineering](https://www.credly.com/badges/029facfa-be3e-4016-b1d1-4070f9f8846c)  
 
@@ -87,7 +87,7 @@ Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied
     </a>
 </p>
 
-## IBM Training - Data Science & Advanced Data Analytics
+## [IBM Training - Data Science & Advanced Data Analytics](https://www.ibm.com/training/badge/data-science-professional-certificate)
 - **Advanced-Degree Credits Eligible**  
 [IBM Professionally-trained in Data Science](https://www.credly.com/badges/5811b8ae-de5c-4907-88a5-d4d6d5fab0a9)
 
@@ -103,7 +103,7 @@ Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Alge
     </a>
 </p>
 
-## Google Career Certificates - Foundational Data Analytics
+## [Google Career Certificates - Foundational Data Analytics](https://grow.google/certificates/data-analytics/)
 - **Advanced-Degree Credits Eligible**  
 [Google Professionally-trained in Foundational Data Analytics ](https://www.credly.com/go/6Yln9QrsZlKYbZSgzeBeEA)
 
@@ -119,7 +119,7 @@ Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance�
     </a>
 </p>
 
-## IBM Training - Data Warehouse & Big Data Engineering
+## [IBM Training - Data Warehouse & Big Data Engineering](https://www.ibm.com/training/badge/data-engineering-professional-certificate-v2)
 - **Advanced-Degree Credits Eligible**  
 [IBM Professionally-trained in Big Data Engineering](https://www.credly.com/badges/d2a32c7b-5b1e-4cd4-886c-3c3deeb6c78e)
                                                  
@@ -135,7 +135,7 @@ Data Governance · Exploratory Data Analysis · Data Architecture · Data Engine
     </a>
 </p>
 
-## Google Career Certificates - IT Automation with Python
+## [Google Career Certificates - IT Automation with Python](https://grow.google/certificates/it-support/)
 - **Advanced-Degree Credits Eligible**  
 [Google Professionally-trained in IT Automation with Python](https://www.credly.com/badges/47116441-c734-4380-b36e-36c4eab41073)  
 
