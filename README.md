@@ -5,7 +5,7 @@
 ## Challenges - What People Think of AI?
 ![pl](images/What_People_Think_of_AI.jpg)
 
-<div style="text-align: center;">
+<div style="text-align: center">
     <img src="images/What_People_Think_of_AI.jpg" alt="What People Think of AI">
 </div>
 
