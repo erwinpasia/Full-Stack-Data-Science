@@ -5,6 +5,10 @@
 ## Challenges - What People Think of AI?
 ![pl](images/What_People_Think_of_AI.jpg)
 
+<div style="text-align: center;">
+    <img src="images/What_People_Think_of_AI.jpg" alt="What People Think of AI">
+</div>
+
 The simplified view of AI suggests that data is directly fed into AI systems, which then immediately produce value. This perception overlooks the complexity involved in actual AI processes. People often imagine AI as a straightforward pipeline where raw data is input, and valuable insights or outputs are automatically generated without any intermediate steps. This view misses the intricate stages of data preparation, model development, and operationalization required to truly harness AI's potential. 
 
 In reality, achieving value from AI involves extensive data engineering, modeling, and continuous monitoring to ensure effective and ethical outcomes.
@@ -16,7 +20,7 @@ In the AI process, addressing constraints such as legal, ethical/transparency, h
 
 Together, these constraints guide the responsible development and deployment of AI systems, ensuring they are safe, fair, and trustworthy.
 
-## Solution - Knowing What Actually is an AI?
+## Solution - Knowing What Actually is an AI!
 ![pl](images/What_Actually_Is_AI.jpg)
 
 Artificial Intelligence (AI) is often perceived as a straightforward process where data is fed into AI systems to generate value.
