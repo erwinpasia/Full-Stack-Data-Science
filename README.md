@@ -2,13 +2,29 @@
 
 > "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives—for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
 
-This comprehensive training program emphasizes "real-world experiences" through "multiple capstone projects". It provides professional-level education in end-to-end data science (E2EDS), delivered by a research university and leading tech companies specializing in GPU-Accelerated Computing, Data, AI, and Automation. The program also provided "eligibility for advanced degrees".
+## Challenges - What People Think of AI?
+![pl](images/What_People_Think_of_AI.jpg)
+
+The simplified view of AI suggests that data is directly fed into AI systems, which then immediately produce value. This perception overlooks the complexity involved in actual AI processes. People often imagine AI as a straightforward pipeline where raw data is input, and valuable insights or outputs are automatically generated without any intermediate steps. This view misses the intricate stages of data preparation, model development, and operationalization required to truly harness AI's potential. In reality, achieving value from AI involves extensive data engineering, modeling, and continuous monitoring to ensure effective and ethical outcomes.
+
+## Challenges - What Are the Constraints of AI?
+![pl](images/What_Are_the_Constraints_of_AI.jpg)
+
+In the AI process, addressing constraints such as legal, ethical/transparency, historical bias, and security considerations is crucial. Legal compliance ensures adherence to regulations like GDPR, protecting user data and privacy. Ethical and transparency considerations involve making AI processes understandable and fair, preventing misuse and fostering trust. Historical bias must be mitigated to avoid perpetuating unfairness in AI models, ensuring they provide equitable outcomes. Security measures are essential to protect sensitive data from breaches and unauthorized access. Together, these constraints guide the responsible development and deployment of AI systems, ensuring they are safe, fair, and trustworthy.
+
+## Solution - Knowing What Actually is an AI?
+![pl](images/What_Actuallu_Is_AI.jpg)
+
+Artificial Intelligence (AI) is often perceived as a straightforward process where data is fed into AI systems to generate value. However, the reality is much more complex, involving multiple stages and disciplines. The process begins with "Data Management", which includes selecting, sourcing, and synthesizing data. This is followed by "Data Engineering", where the data undergoes cleaning, normalization, and scaling to ensure it is ready for analysis. "Data science" plays a crucial role in exploring the data and performing feature engineering to extract meaningful insights. The next step is "Modeling", which involves selecting appropriate models, training them, and tuning their parameters for optimal performance. Once the models are developed, they are evaluated to ensure accuracy and reliability. The final stage is "Operationalizing", which includes registering, deploying, monitoring, and retraining models as needed to maintain their effectiveness over time. Throughout this process, various constraints such as legal, ethical, transparency issues, historical biases, and security concerns must be addressed to ensure responsible AI deployment.
+
+## Trainings and Education:
+
+Thus, this comprehensive training program which emphasizes on "real-world experiences" through "multiple capstone projects". It provides professional-level education in end-to-end data science (E2EDS), delivered by a research university and leading tech companies specializing in GPU-Accelerated Computing, Data, AI, and Automation. The program also provided "eligibility for advanced degrees".
 
 The curriculum is structured around Monica Rogati’s "The Data Science Hierarchy of Needs", ensuring a solid foundation in data science principles and their practical applications:
 
 ![pl](images/Full-Stack_Full-Pipeline_E2E_Data_Scientist_Pre_GenAIwithLLMs.jpeg)
 
-## Trainings and Education:
 
 <p style="text-align:left">
     <a href="https://learn.nvidia.com/en-us/training/instructor-led-workshops" target="_blank">
