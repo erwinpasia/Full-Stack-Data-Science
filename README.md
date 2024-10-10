@@ -8,12 +8,12 @@
 The simplified view of AI suggests that data is directly fed into AI systems, which then immediately produce value. This perception overlooks the complexity involved in actual AI processes. People often imagine AI as a straightforward pipeline where raw data is input, and valuable insights or outputs are automatically generated without any intermediate steps. This view misses the intricate stages of data preparation, model development, and operationalization required to truly harness AI's potential. In reality, achieving value from AI involves extensive data engineering, modeling, and continuous monitoring to ensure effective and ethical outcomes.
 
 ## Challenges - What Are the Constraints of AI?
-![pl](images/What_Are_the_Constraints_of_AI.jpg)
+![pl](images/What_Are_the_Constraints_Of_AI.jpg)
 
 In the AI process, addressing constraints such as legal, ethical/transparency, historical bias, and security considerations is crucial. Legal compliance ensures adherence to regulations like GDPR, protecting user data and privacy. Ethical and transparency considerations involve making AI processes understandable and fair, preventing misuse and fostering trust. Historical bias must be mitigated to avoid perpetuating unfairness in AI models, ensuring they provide equitable outcomes. Security measures are essential to protect sensitive data from breaches and unauthorized access. Together, these constraints guide the responsible development and deployment of AI systems, ensuring they are safe, fair, and trustworthy.
 
 ## Solution - Knowing What Actually is an AI?
-![pl](images/What_Actuallu_Is_AI.jpg)
+![pl](images/What_Actually_Is_AI.jpg)
 
 Artificial Intelligence (AI) is often perceived as a straightforward process where data is fed into AI systems to generate value. However, the reality is much more complex, involving multiple stages and disciplines. The process begins with "Data Management", which includes selecting, sourcing, and synthesizing data. This is followed by "Data Engineering", where the data undergoes cleaning, normalization, and scaling to ensure it is ready for analysis. "Data science" plays a crucial role in exploring the data and performing feature engineering to extract meaningful insights. The next step is "Modeling", which involves selecting appropriate models, training them, and tuning their parameters for optimal performance. Once the models are developed, they are evaluated to ensure accuracy and reliability. The final stage is "Operationalizing", which includes registering, deploying, monitoring, and retraining models as needed to maintain their effectiveness over time. Throughout this process, various constraints such as legal, ethical, transparency issues, historical biases, and security concerns must be addressed to ensure responsible AI deployment.
 
