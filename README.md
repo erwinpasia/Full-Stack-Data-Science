@@ -19,7 +19,11 @@ Together, these constraints guide the responsible development and deployment of 
 ## Solution - Knowing What Actually is an AI?
 ![pl](images/What_Actually_Is_AI.jpg)
 
-Artificial Intelligence (AI) is often perceived as a straightforward process where data is fed into AI systems to generate value. However, the reality is much more complex, involving multiple stages and disciplines. The process begins with "Data Management", which includes selecting, sourcing, and synthesizing data. This is followed by "Data Engineering", where the data undergoes cleaning, normalization, and scaling to ensure it is ready for analysis. "Data science" plays a crucial role in exploring the data and performing feature engineering to extract meaningful insights. The next step is "Modeling", which involves selecting appropriate models, training them, and tuning their parameters for optimal performance. Once the models are developed, they are evaluated to ensure accuracy and reliability. The final stage is "Operationalizing", which includes registering, deploying, monitoring, and retraining models as needed to maintain their effectiveness over time. Throughout this process, various constraints such as legal, ethical, transparency issues, historical biases, and security concerns must be addressed to ensure responsible AI deployment.
+Artificial Intelligence (AI) is often perceived as a straightforward process where data is fed into AI systems to generate value.
+
+However, the reality is much more complex, involving multiple stages and disciplines. The process begins with "Data Management", which includes selecting, sourcing, and synthesizing data. This is followed by "Data Engineering", where the data undergoes cleaning, normalization, and scaling to ensure it is ready for analysis. "Data science" plays a crucial role in exploring the data and performing feature engineering to extract meaningful insights. The next step is "Modeling", which involves selecting appropriate models, training them, and tuning their parameters for optimal performance. Once the models are developed, they are evaluated to ensure accuracy and reliability. The final stage is "Operationalizing", which includes registering, deploying, monitoring, and retraining models as needed to maintain their effectiveness over time. 
+
+Throughout this process, various constraints such as legal, ethical, transparency issues, historical biases, and security concerns must be addressed to ensure responsible AI deployment.
 
 ## Trainings and Education:
 
