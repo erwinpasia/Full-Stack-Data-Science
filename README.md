@@ -1,2 +1,185 @@
-# Full-Stack-Data-Science
-How I Reinvented Myself Post-COVID: From Computer Engineer to Mobile Telecoms Engineer, and Now a Full-Stack Data Science Professional.
+# **Full-Stack Data Science:** *A Technical Foundation for End-To-End (E2E) Data Science.*
+
+> "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives—for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
+
+## Challenges - What People Think of AI?
+![pl](images/What_People_Think_of_AI.jpg)
+
+Many people envision AI as a simple pipeline where raw data is input, and valuable insights or outputs are generated automatically, bypassing any intermediate steps. This perspective, illustrated in a simplified view of AI, suggests that data flows directly into AI systems, which then instantly produce value. 
+
+However, this perception overlooks the complexities inherent in real AI processes. It fails to acknowledge the intricate stages of data preparation, model development, and operationalization necessary to fully harness the potential of AI.
+
+In reality, achieving value from AI involves extensive data engineering, modeling, and continuous monitoring to ensure effective and ethical outcomes.
+
+## Challenges - What Are the Constraints of AI?
+![pl](images/What_Are_the_Constraints_Of_AI.jpg)
+
+In the AI process, addressing constraints such as legal, ethical/transparency, historical bias, and security considerations is crucial. "Legal" compliance ensures adherence to regulations like GDPR, protecting user data and privacy. "Ethical and Transparency" considerations involve making AI processes understandable and fair, preventing misuse and fostering trust. "Historical Bias" must be mitigated to avoid perpetuating unfairness in AI models, ensuring they provide equitable outcomes. "Security" measures are essential to protect sensitive data from breaches and unauthorized access. 
+
+Together, these constraints guide the responsible development and deployment of AI systems, ensuring they are safe, fair, and trustworthy.
+
+## Solution - Knowing What Actually is an AI!
+![pl](images/What_Actually_Is_AI.jpg)
+
+Artificial Intelligence (AI) is often perceived as a straightforward process where data is fed into AI systems to generate value.
+
+However, the reality is much more complex, involving multiple stages and disciplines. The process begins with "Data Management", which includes selecting, sourcing, and synthesizing data. This is followed by "Data Engineering", where the data undergoes cleaning, normalization, and scaling to ensure it is ready for analysis. "Data science" plays a crucial role in exploring the data and performing feature engineering to extract meaningful insights. The next step is "Modeling", which involves selecting appropriate models, training them, and tuning their parameters for optimal performance. Once the models are developed, they are evaluated to ensure accuracy and reliability. The final stage is "Operationalizing", which includes registering, deploying, monitoring, and retraining models as needed to maintain their effectiveness over time. 
+
+Throughout this process, various constraints such as legal, ethical, transparency issues, historical biases, and security concerns must be addressed to ensure responsible AI deployment.
+
+## Trainings and Education:
+
+A Full-Stack Data Science skillset is essential because it offers a comprehensive understanding of the entire data pipeline, from data selection to the operationalization of AI models. This training program, which focuses heavily on real-world experience through multiple capstone projects, delivers professional-level education in end-to-end data science (E2EDS). It is provided by a leading research university and top tech companies specializing in GPU-Accelerated Computing, Data, AI, and Automation. Additionally, it opens up eligibility for advanced degree opportunities.
+
+The curriculum is based on Monica Rogati’s "Data Science Hierarchy of Needs," ensuring a strong foundation in both the principles of data science and their practical applications. Technical competencies across key stages, including:
+
+- **Data Collection Automation:** *Efficient data extraction using advanced tools and programming languages (e.g., Python, APIs, web scraping).*
+
+- **Data Warehouse Architecture & Big Data Engineering:** *Building scalable and high-performance data pipelines, ensuring clean, structured, and accessible data storage for analysis.*
+
+- **Foundational & Advanced Data Analytics:** *Analyzing structured and unstructured data to derive insights using statistical methods, visualizations, and exploratory data analysis (EDA).*
+
+- **AI, Machine Learning & Deep Learning:** *Developing predictive models using classical machine learning, and deep learning, leveraging frameworks like Keras, TensorFlow, PyTorch, & Scikit-Learn and library like OpenCV.*
+
+- **MLOps & DataOps:** *Automating the deployment, monitoring, and lifecycle management of AI/ML models, ensuring continuous integration and delivery (CI/CD) in production environments.*
+
+- **GPU-Accelerated Computing & High-Performance Computing (HPC):** *Utilizing advanced hardware and GPU acceleration for faster model training, enabling handling of large-scale data science workloads.*
+
+Each training and certification enhances skills in data science, data engineering, and machine learning, equipping professionals to address current challenges and stay competitive in the face of future advancements. This solid technical foundation promotes adaptability, empowering individuals to harness emerging tools and technologies for innovative solutions as the field continues to evolve.
+
+![pl](images/Full-Stack_Full-Pipeline_E2E_Data_Scientist_Pre_GenAIwithLLMs.jpeg)
+
+
+<p style="text-align:left">
+    <a href="https://learn.nvidia.com/en-us/training/instructor-led-workshops" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Nvidia.jpeg" alt="NVIDIA Deep Learning Institute"  />
+    </a>
+</p>
+
+## [NVIDIA Deep Learning Institute](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
+- **Non-Degree**  
+Advanced Technical Workshops in "GPU-Accelerated" Generative AI, Data Science and HPC (High Performance Computing)  
+**2021 - Present**
+
+- **Instructors:** NVIDIA Experts-led Training (GTC Live and Virtual) thru Nvidia DLI platform.
+- **Completed Workshops:**
+  - [Fundamentals of Accelerated Data Science (with RAPIDS)](https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11)
+  - [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=ef77185931c546b481ba51840fdd8cfa)
+  - [Fundamentals of Accelerated Computing with CUDA C/C++](https://learn.nvidia.com/certificates?id=d747aca4c5f9467cb46d785ed401c6ea)
+  - [Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=bbfe2cfa7cee4ec995553febfcd1a033)
+  - [Getting Started in AI with Jetson (Edge AI)](https://learn.nvidia.com/certificates?id=c2b5e792bba44971a17ab524d58fc9c8&trk)
+
+**Skills:**  
+Data Science · RAPIDS · Python (Programming Language) · C++ · CUDA · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy · PyTorch · TensorFlow · cuPy · cuDF · cuML · cuGraph
+
+---
+<p style="text-align:left">
+    <a href="https://www.coursera.org/partners/imperial" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Imperial_College_London.jpeg" alt="Imperial College London Online"  />
+    </a>
+</p>
+
+## [Imperial College London](https://www.coursera.org/partners/imperial)
+- **Non-Degree**  
+[Imperial College London-trained in Machine Learning and Data Science Mathematics](https://www.coursera.org/account/accomplishments/specialization/certificate/7RY8S3CXD8E9)  
+
+- **Instructors:** Imperial College London's Mathematics Professors from the Engineering & Mathematics Departments thru Coursera Learning Platform.
+
+**Skills:**  
+Linear Algebra · Multivariable Calculus · Principal Component Analysis · Python Programming Language · NumPy · Scikit-learn · Matplotlib · SciPy
+
+---
+<p style="text-align:left">
+    <a href="https://www.deeplearning.ai/" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_DeepLearningAI.jpeg" alt="DeepLearning.AI"  />
+    </a>
+</p>
+
+## [DeepLearning.AI - MLOps | Machine Learning Engineering for Production](https://www.deeplearning.ai/)
+- **Non-Degree**  
+[DeepLearning.AI-trained in MLOps | Machine Learning Engineering for Production](https://www.coursera.org/account/accomplishments/specialization/certificate/JT96BFTD2X97)  
+
+- **Instructors:** Andrew Ng (Google Brain Founder), Robert Crowe (Google TensorFlow Advocate), and Laurence Moroney (Google TensorFlow Advocate) thru Coursera Learning Platform.
+
+**Skills:**  
+TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Production Systems · Deployment Pipelines · Model and Data Pipelines · Concept Drift and Model Baseline · Feature Engineering · Monitoring and Maintenance · DevOps Practices · Human-Level Performance (HLP) · Project Scoping and Design
+
+---
+<p style="text-align:left">
+    <a href="https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate-v2" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    </a>
+</p>
+
+## [IBM Training - AI & ML Engineering](https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate-v2)
+- **Advanced-Degree Credits Eligible**  
+[IBM Professionally-trained in AI/ML Engineering](https://www.credly.com/badges/029facfa-be3e-4016-b1d1-4070f9f8846c)  
+
+- **Instructors:** IBM Experts-led Machine Learning & AI Engineering Professional Training thru Coursera Learning Platform.
+
+**Skills:**  
+Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied Probability · Statistics · Machine Learning · Pandas (Software) · Matplotlib · NumPy · SciPy · Scikit-Learn · Supervised Learning · Unsupervised Learning · Convolutional Neural Networks (CNN) · Recurrent Neural Networks (RNN) · Deep Learning · Computer Vision · OpenCV · Pillow · Keras · PyTorch · TensorFlow
+
+---
+<p style="text-align:left">
+    <a href="https://www.ibm.com/training/badge/data-science-professional-certificate" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    </a>
+</p>
+
+## [IBM Training - Data Science & Advanced Data Analytics](https://www.ibm.com/training/badge/data-science-professional-certificate)
+- **Advanced-Degree Credits Eligible**  
+[IBM Professionally-trained in Data Science](https://www.credly.com/badges/5811b8ae-de5c-4907-88a5-d4d6d5fab0a9)
+
+- **Instructors:** IBM Experts-led Data Scientist & Advanced Data Analytics Professional Training thru Coursera Learning Platform.
+
+**Skills:**  
+Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Probability · Statistics · Statistical Analysis · Hypothesis Testing · ANOVA · Python (Programming Language) · Jupyter Notebook · Pandas (Software) · NumPy · SciPy · Matplotlib · Seaborn · Folium · Flask · Data Science · Bokeh Visualization Library · Machine Learning · Scikit-Learn · Supervised Learning · Unsupervised Learning
+
+---
+<p style="text-align:left">
+    <a href="https://grow.google/certificates/data-analytics/?foundational" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg" alt="Google Career Certificates"  />
+    </a>
+</p>
+
+## [Google Career Certificates - Foundational Data Analytics](https://grow.google/certificates/data-analytics/?foundational)
+- **Advanced-Degree Credits Eligible**  
+[Google Professionally-trained in Foundational Data Analytics ](https://www.credly.com/go/6Yln9QrsZlKYbZSgzeBeEA)
+
+- **Instructors:** Google Experts-led Data Analytics Professional Training thru Coursera Learning Platform.
+
+**Skills:**  
+Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance· Analytics· SQL· Excel· Tableau· BigQuery· R (Programming Language)· RStudio
+
+---
+<p style="text-align:left">
+    <a href="https://www.ibm.com/training/badge/data-engineering-professional-certificate-v2" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    </a>
+</p>
+
+## [IBM Training - Data Warehouse & Big Data Engineering](https://www.ibm.com/training/badge/data-engineering-professional-certificate-v2)
+- **Advanced-Degree Credits Eligible**  
+[IBM Professionally-trained in Big Data Engineering](https://www.credly.com/badges/d2a32c7b-5b1e-4cd4-886c-3c3deeb6c78e)
+                                                 
+- **Instructors:** IBM Experts-led Data Warehouse Architecture & Big Data Engineering Professional Training thru Coursera Learning Platform.
+
+**Skills:**  
+Data Governance · Exploratory Data Analysis · Data Architecture · Data Engineering · Data Modeling · Data Warehouse Architecture · Principal Component Analysis · SQL · NoSQL · Python (Programming Language) · Cassandra · Scala · IBM Db2 · MySQL · PostgreSQL · MongoDB · Extract, Transform, Load (ETL) · Apache Airflow · Apache Kafka · Big Data · ELT · MapReduce · Hadoop · Machine Learning · Pandas (Software) · NumPy · Matplotlib · SciPy · Scikit-Learn · Apache Spark
+
+---
+<p style="text-align:left">
+    <a href="https://grow.google/certificates/it-support/?advanced" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg" alt="Google Career Certificates"  />
+    </a>
+</p>
+
+## [Google Career Certificates - IT Automation with Python](https://grow.google/certificates/it-support/?advanced)
+- **Advanced-Degree Credits Eligible**  
+[Google Professionally-trained in IT Automation with Python](https://www.credly.com/badges/47116441-c734-4380-b36e-36c4eab41073)  
+
+- **Instructors:** Google SREs-led IT Automation & Site Reliability Engineering Professional Training thru Coursera Learning Platform.
+
+**Skills:**  
+Python (Programming Language) · IT Automation · DevOps · Continuous Integration and Continuous Delivery (CI/CD) · Configuration Management · Git · GitHub · Puppet (Software) · Containerization · Kubernetes · Google Cloud Platform (GCP) · Google Kubernetes Engine (GKE)
