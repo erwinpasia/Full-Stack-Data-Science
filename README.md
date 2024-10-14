@@ -14,13 +14,13 @@ In reality, AI requires far more than just feeding data into a system. It's a mu
 
 To deploy AI responsibly, it's essential to navigate several constraints:
 
-**Legal Compliance:** *Adherence to regulations like GDPR, HIPAA, et.al. is critical to safeguard user data and privacy.*
+- **Legal Compliance:** *Adherence to regulations like GDPR, HIPAA, et.al. is critical to safeguard user data and privacy.*
 
-**Ethics and Transparency:** *AI systems must be transparent and fair, promoting trust and preventing misuse.*
+- **Ethics and Transparency:** *AI systems must be transparent and fair, promoting trust and preventing misuse.*
 
-**Historical Bias:** *It’s crucial to avoid embedding past biases into AI models, ensuring they provide equitable outcomes.*
+- **Historical Bias:** *It’s crucial to avoid embedding past biases into AI models, ensuring they provide equitable outcomes.*
 
-**Security:** *Protecting sensitive data from breaches or unauthorized access is paramount in AI development.*
+- **Security:** *Protecting sensitive data from breaches or unauthorized access is paramount in AI development.*
 
 These factors guide responsible AI development, ensuring the systems we create are trustworthy, ethical, and secure.
 
