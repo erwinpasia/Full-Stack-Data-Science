@@ -126,7 +126,7 @@ C (Programming Language) · C++ (Programming Language) · CUDA
 - **Skills:**  
 Python (Programming Language) · Numba · CUDA
 
- ## [Getting Started in AI with Jetson (Edge AI)](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-RX-02+V2)
+ ## [Getting Started in AI with Jetson (Edge AI & Robotics Platform)](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-RX-02+V2)
 - [**Advanced Technical Workshop**](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
 - **Instructors:** NVIDIA Experts-led Training (GTC Live and Virtual) thru Nvidia DLI platform.
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-ATW-Getting-Started-in-AI-with-Jetson)** 
