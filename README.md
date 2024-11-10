@@ -262,3 +262,5 @@ Data Governance · Exploratory Data Analysis · Data Architecture · Data Engine
 
 - **Skills:**  
 Python (Programming Language) · IT Automation · DevOps · Continuous Integration and Continuous Delivery (CI/CD) · Configuration Management · Git · GitHub · Puppet (Software) · Containerization · Kubernetes · Google Cloud Platform (GCP) · Google Kubernetes Engine (GKE)
+
+> Science is not truth. Science is finding the truth. When science changes its opinion, it didn't lie to you. It learned more. So Keep Learning and Stay Curious!
