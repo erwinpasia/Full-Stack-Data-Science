@@ -5,9 +5,9 @@
 ## 1. Common Misconceptions About AI:
 ![pl](images/What_People_Think_of_AI.jpg)
 
-Many people imagine AI as a straightforward process: raw data goes in, and valuable insights magically come out. In this oversimplified view, AI is seen as a "black box" that delivers results or value without much effort. However, this perception overlooks the complexities involved in real-world AI applications.
+AI is often mistakenly viewed as a "black box"—a seemingly magical process where raw data enters, and actionable insights exit, with little understanding of what happens in between. This view can be misleading, as it oversimplifies the intricate work involved. "AI is not magic. It is Applied Mathematics, powered by Algorithms, Computer Science, and vast amounts of data". Behind the scenes, achieving meaningful AI outcomes requires a rigorous multi-step process that goes far beyond merely feeding data into a model.
 
-In reality, AI requires far more than just feeding data into a system. It's a multi-step process involving data preparation, model development, and ongoing monitoring to ensure accurate and ethical results. Achieving value from AI is a journey, not a one-step pipeline. It involves significant effort in data engineering, modeling, and refinements to unlock AI's full potential.
+In reality, AI applications involve a journey that includes data preparation, model development, and continuous monitoring to ensure both accuracy and ethical considerations. AI, is not a one-step pipeline but a complex process involving methodical effort across data engineering, modeling, and iteration. Only through this multi-layered approach can AI reach its full potential, delivering insights that are accurate, ethical, and truly valuable.
 
 ## 2. Addressing AI's Constraints:
 ![pl](images/What_Are_the_Constraints_Of_AI.jpg)
@@ -263,5 +263,4 @@ Data Governance · Exploratory Data Analysis · Data Architecture · Data Engine
 - **Skills:**  
 Python (Programming Language) · IT Automation · DevOps · Continuous Integration and Continuous Delivery (CI/CD) · Configuration Management · Git · GitHub · Puppet (Software) · Containerization · Kubernetes · Google Cloud Platform (GCP) · Google Kubernetes Engine (GKE)
 
-> "Science is not truth. Science is finding the truth. When science changes its opinion, it didn't lie to you. It learned more."
-> "So Keep Learning and Stay Curious!"
+> "Science is not truth. Science is finding the truth. When science changes its opinion, it didn't lie to you. It learned more". Keep Learning and Stay Curious!
