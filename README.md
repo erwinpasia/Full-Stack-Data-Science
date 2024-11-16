@@ -5,7 +5,7 @@
 ## 1. Common Misconceptions About AI:
 ![pl](images/What_People_Think_of_AI.jpg)
 
-AI is often mistakenly viewed as a "black box"—a seemingly magical process where raw data enters, and actionable insights exit, with little understanding of what happens in between. This view can be misleading, as it oversimplifies the intricate work involved. "AI is not magic. It is Applied Mathematics, powered by Algorithms, Computer Science, and vast amounts of data". Behind the scenes, achieving meaningful AI outcomes requires a rigorous multi-step process that goes far beyond merely feeding data into a model.
+AI is often mistakenly viewed as a "black box"—a seemingly magical process where raw data enters, and actionable insights exit, with little understanding of what happens in between. This view can be misleading, as it oversimplifies the intricate work involved. "AI is not magic; it’s the synergy of Applied Mathematics, sophisticated Algorithms, Computer Science, and immense volumes of data". Behind the scenes, achieving meaningful AI outcomes requires a rigorous multi-step process that goes far beyond merely feeding data into a model.
 
 In reality, AI applications involve a journey that includes data preparation, model development, and continuous monitoring to ensure both accuracy and ethical considerations. AI, is not a one-step pipeline but a complex process involving methodical effort across data engineering, modeling, and iteration. Only through this multi-layered approach can AI reach its full potential, delivering insights that are accurate, ethical, and truly valuable.
 
