@@ -181,7 +181,7 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
     </a>
 </p>
 
-## [IBM Professionally-trained in AI/ML Engineering](https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate-v2)
+## [IBM Professionally-trained in AI/ML Engineering (Deep Learning with PyTorch, Keras and Tensorflow)](https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate-v2)
 - [**Advanced-Degree Credits Eligible**](https://www.coursera.org/professional-certificates/ai-engineer?utm_source=IBM&utm_medium=institutions&utm_campaign=IBMBadge#credits)  
 - **Instructors:** IBM Experts-led Machine Learning & AI Engineering Professional Training thru Coursera Learning Platform.
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-AI-Capstone-Project-with-Deep-Learning-V2)**
