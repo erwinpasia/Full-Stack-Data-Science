@@ -176,6 +176,24 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 
 ---
 <p style="text-align:left">
+    <a href="https://www.ibm.com/training/badge/ibm-generative-ai-engineering-with-llms-specializat.1" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    </a>
+</p>
+
+## [IBM Professionally-trained in Generative AI Engineering with LLMs](https://www.ibm.com/training/badge/ibm-generative-ai-engineering-with-llms-specializat.1)
+- [**Non-Degree**]()  
+- **Instructors:** IBM Experts-led Generative AI Engineering Specialization Training thru Coursera Learning Platform.
+- **Capstone Project Repo: [<u>Github Link!</u>]()**
+- **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF?trk=public_profile_certification-title)
+
+![pl](images/IBM-GAILLMS-SC.png)
+
+- **Skills:**  
+Direct Preference Optimization (DPO), Generative AI Architecture, Hugging Face, LangChain, Large Language Models, LoRA and QLoRA, NLP Model Fine-Tuning, Proximal Policy Optimization (PPO), PyTorch, Reinforcement Learning From Human Feedback (RLHF), Retrieval-augmented Generation (RAG)
+
+---
+<p style="text-align:left">
     <a href="https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate-v2" target="_blank">
     <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
     </a>
@@ -192,24 +210,6 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 
 - **Skills:**  
 Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied Probability · Statistics · Machine Learning · Pandas (Software) · Matplotlib · NumPy · SciPy · Scikit-Learn · Supervised Learning · Unsupervised Learning · Convolutional Neural Networks (CNN) · Recurrent Neural Networks (RNN) · Deep Learning · Computer Vision · OpenCV · Pillow · Keras · PyTorch · TensorFlow
-
----
-<p style="text-align:left">
-    <a href="https://www.ibm.com/training/badge/ibm-generative-ai-engineering-with-llms-specializat.1" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
-    </a>
-</p>
-
-## [IBM Professionally-trained in Generative AI Engineering with LLMs](https://www.ibm.com/training/badge/ibm-generative-ai-engineering-with-llms-specializat.1)
-- [**Non-Degree**]()  
-- **Instructors:** IBM Experts-led Generative AI Engineering Specialization Training thru Coursera Learning Platform.
-- **Capstone Project Repo: [<u>Github Link!</u>]()**
-- **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF?trk=public_profile_certification-title)
-
-![pl](images/IBM-GAILLMS-SC.png)
-
-- **Skills:**  
-Direct Preference Optimization (DPO), Generative AI Architecture, Hugging Face, LangChain, Large Language Models, LoRA and QLoRA, NLP Model Fine-Tuning, Proximal Policy Optimization (PPO), PyTorch, Reinforcement Learning From Human Feedback (RLHF), Retrieval-augmented Generation (RAG)
 
 ---
 <p style="text-align:left">
