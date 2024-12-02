@@ -195,6 +195,24 @@ Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied
 
 ---
 <p style="text-align:left">
+    <a href="https://www.ibm.com/training/badge/ibm-generative-ai-engineering-with-llms-specializat.1" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    </a>
+</p>
+
+## [IBM Professionally-trained in Generative AI Engineering with LLMs](https://www.ibm.com/training/badge/ibm-generative-ai-engineering-with-llms-specializat.1)
+- [**Non-Degree**]()  
+- **Instructors:** IBM Experts-led Generative AI Engineering Specialization Training thru Coursera Learning Platform.
+- **Capstone Project Repo: [<u>Github Link!</u>]()**
+- **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF?trk=public_profile_certification-title)
+
+![pl](images/IBM-GAILLMS-SC.png)
+
+- **Skills:**  
+Direct Preference Optimization (DPO), Generative AI Architecture, Hugging Face, LangChain, Large Language Models, LoRA and QLoRA, NLP Model Fine-Tuning, Proximal Policy Optimization (PPO), PyTorch, Reinforcement Learning From Human Feedback (RLHF), Retrieval-augmented Generation (RAG)
+
+---
+<p style="text-align:left">
     <a href="https://www.ibm.com/training/badge/data-science-professional-certificate" target="_blank">
     <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
     </a>
