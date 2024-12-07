@@ -185,7 +185,7 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 - [**Non-Degree**]()  
 - **Instructors:** IBM Experts-led Generative AI Engineering Specialization Training thru Coursera Learning Platform.
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-Project-Generative-AI-Applications-with-RAG-and-LangChain)**
-- **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/Q9WBXKL7Z4LF?trk=public_profile_certification-title)
+- **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/certificate/Q9WBXKL7Z4LF)
 
 ![pl](images/IBM-GAILLMS-SC.png)
 
