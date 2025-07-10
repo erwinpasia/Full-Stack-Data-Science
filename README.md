@@ -60,7 +60,7 @@ Based on Monica Rogati’s "Data Science Hierarchy of Needs," the curriculum pro
 
 - **Data Collection Automation:** *Efficient data extraction using advanced tools and programming languages (e.g., Python, APIs, web scraping).*
 
-![pl](images/Full-Stack_Full-Pipeline_E2E_Data_Science_Version_2.0.jpeg)
+![pl](images/The_Techpreneur.png)
 
 Akin to the goal of an MVP (Minimum Viable Product) which is to test a product hypothesis using minimal resources, gather insights on customer needs, and iterate rapidly based on real user feedback.
 
