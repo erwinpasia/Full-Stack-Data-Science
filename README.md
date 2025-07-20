@@ -1,4 +1,4 @@
-# **Full-Stack Data Science Version 2.0:** 
+# **Full-Stack Data Science Version 2.0 (Techpreneur):** 
 ## *(Developing a solid technical foundation for end-to-end data science — E2E-DS)*
 
 > "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives—for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
