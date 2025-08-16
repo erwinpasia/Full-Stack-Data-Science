@@ -176,6 +176,32 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 
 ---
 <p style="text-align:left">
+    <a href="https://www.kaggle.com/erwinrpasia" target="_blank">
+    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Kaggle.jpeg" alt="Kaggle"  />
+    </a>
+</p>
+
+## [Kaggle X Google X DeepMind 5-Day Generative AI Intensive Training 2025Q1](https://www.kaggle.com/erwinrpasia)
+- [**Non-Degree**]()  
+- **Instructors:** Kaggle, Google, and DeepMind Machine Learning Experts-led Generative AI Intensive Training thru Kaggle Platform.
+- **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google)**
+- **Digital Credential:** [**Badge Certificate!**](https://www.kaggle.com/certification/badges/erwinrpasia/96)
+
+![pl](images/Kaggle_5-Day_Gen-AI_Intensive.png)
+
+- **Skills:**  
+Agentic AI, AI Agent & RAG Systems: Retrieval-Augmented Generation (RAG), Agentic RAG, Multi-Agent Systems, ReAct (Reason and Act) Framework, Chain of Thought (CoT) Prompting, Vector Database Optimization, Embedding Model Training
+
+Advanced LLM Development & Fine-Tuning: Direct Preference Optimization (DPO), LoRA/QLoRA Parameter-Efficient Fine-Tuning, Reinforcement Learning from Human Feedback (RLHF), Proximal Policy Optimization (PPO), Supervised Fine-Tuning (SFT), Model Quantization & Distillation
+
+Generative AI Architecture & Frameworks: Transformer Architecture Design, Mixture of Experts (MoE), Decoder-Only Models, Multi-Head Attention, LangChain Agent Development, Hugging Face Ecosystem, PyTorch Implementation
+
+Production MLOps & Deployment: Vertex AI Platform, Agent Operations (AgentOps), Model Evaluation & Monitoring, Vector Search at Scale, CI/CD for LLMs, Prompt Engineering & Template Management, Domain-Specific Model Specialization
+
+Advanced NLP & Evaluation: Automated LLM Evaluation, Human Feedback Integration, Adversarial Testing, Semantic Search, Cross-Modal Embeddings, Few-Shot Learning, Model-Based Auto-Evaluation
+
+---
+<p style="text-align:left">
     <a href="https://www.ibm.com/training/badge/ibm-generative-ai-engineering-with-llms-specializat.1" target="_blank">
     <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
     </a>
