@@ -100,7 +100,7 @@ Data Science · RAPIDS · Python (Programming Language) · Pandas (Software) · 
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-Advanced-Technical-Workshop-Fundamentals-of-Deep-Learning)** 
 - **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=ef77185931c546b481ba51840fdd8cfa)
 
- ![pl](images/FDL.png)
+ [![pl](images/FDL.png)](https://learn.nvidia.com/certificates?id=ef77185931c546b481ba51840fdd8cfa)
 
 - **Skills:**  
 TensorFlow · Keras · Python (Programming Language) · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy
