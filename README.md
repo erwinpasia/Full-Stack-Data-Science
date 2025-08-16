@@ -89,7 +89,7 @@ Just as an MVP addresses immediate needs while allowing flexibility for future g
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-Advanced-Technical-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS)** 
 - **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11)
 
-![pl](images/FADS_RAPIDS.png)
+[![pl](images/FADS_RAPIDS.png)](https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11)
 
 - **Skills:**  
 Data Science · RAPIDS · Python (Programming Language) · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy · TensorFlow · cuPy · cuDF · cuML · cuGraph
@@ -122,7 +122,7 @@ C (Programming Language) · C++ (Programming Language) · CUDA
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-ATW-Fundamentals-of-Accelerated-Computing-with-CUDA-Python)** 
 - **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=bbfe2cfa7cee4ec995553febfcd1a033)
 
-![pl](images/FAC_CUDA_Python.png)
+[![pl](images/FAC_CUDA_Python.png)](https://learn.nvidia.com/certificates?id=bbfe2cfa7cee4ec995553febfcd1a033)
 
 - **Skills:**  
 Python (Programming Language) · Numba · CUDA
@@ -133,7 +133,7 @@ Python (Programming Language) · Numba · CUDA
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-ATW-Getting-Started-in-AI-with-Jetson)** 
 - **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=c2b5e792bba44971a17ab524d58fc9c8&trk)
 
-![pl](images/Getting_Started_Jetson_EdgeAI.png)
+[![pl](images/Getting_Started_Jetson_EdgeAI.png)](https://learn.nvidia.com/certificates?id=c2b5e792bba44971a17ab524d58fc9c8&trk)
 
 - **Skills:**  
 NVIDIA Jetson Developer Kit · Edge AI · Python (Programming Language) · PyTorch · TensorFlow · CUDA · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy
@@ -151,7 +151,7 @@ NVIDIA Jetson Developer Kit · Edge AI · Python (Programming Language) · PyTor
 - **Specialization's Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-Mathematics-for-Machine-Learning-and-Data-Science)**
 - **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/certificate/7RY8S3CXD8E9)
 
-![pl](images/M4ML.png)
+[![pl](images/M4ML.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/7RY8S3CXD8E9)
 
 - **Skills:**  
 Linear Algebra · Multivariable Calculus · Principal Component Analysis · Python Programming Language · NumPy · Scikit-learn · Matplotlib · SciPy
@@ -169,7 +169,7 @@ Linear Algebra · Multivariable Calculus · Principal Component Analysis · Pyth
 - **Specialization's Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP_Machine_Learning_Engineering_for_Production_Specialization)**
 - **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/certificate/JT96BFTD2X97)  
   
-![pl](images/MLOps_DataML_DevOps.jpg)
+[![pl](images/MLOps_DataML_DevOps.jpg)](https://www.coursera.org/account/accomplishments/specialization/certificate/JT96BFTD2X97)
 
 - **Skills:**  
 TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Production Systems · Deployment Pipelines · Model and Data Pipelines · Concept Drift and Model Baseline · Feature Engineering · Monitoring and Maintenance · DevOps Practices · Human-Level Performance (HLP) · Project Scoping and Design
@@ -213,7 +213,7 @@ Agentic AI, AI Agent & RAG Systems: Retrieval-Augmented Generation (RAG), Agenti
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-Project-Generative-AI-Applications-with-RAG-and-LangChain)**
 - **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/certificate/Q9WBXKL7Z4LF)
 
-![pl](images/IBM-GAILLMS-SC.png)
+[![pl](images/IBM-GAILLMS-SC.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/Q9WBXKL7Z4LF)
 
 - **Skills:**  
 Direct Preference Optimization (DPO), Generative AI Architecture, Hugging Face, LangChain, Large Language Models, LoRA and QLoRA, NLP Model Fine-Tuning, Proximal Policy Optimization (PPO), PyTorch, Reinforcement Learning From Human Feedback (RLHF), Retrieval-augmented Generation (RAG)
@@ -232,7 +232,7 @@ Direct Preference Optimization (DPO), Generative AI Architecture, Hugging Face, 
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-AI-Capstone-Project-with-Deep-Learning-V2)**
 - **Digital Credential:** [**Credly Professional Badge of Competency!**](https://www.credly.com/badges/029facfa-be3e-4016-b1d1-4070f9f8846c)
 
-![pl](images/IBM-AIE_PC.png)
+[![pl](images/IBM-AIE_PC.png)](https://www.credly.com/badges/029facfa-be3e-4016-b1d1-4070f9f8846c)
 
 - **Skills:**  
 Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied Probability · Statistics · Machine Learning · Pandas (Software) · Matplotlib · NumPy · SciPy · Scikit-Learn · Supervised Learning · Unsupervised Learning · Convolutional Neural Networks (CNN) · Recurrent Neural Networks (RNN) · Deep Learning · Computer Vision · OpenCV · Pillow · Keras · PyTorch · TensorFlow
@@ -250,7 +250,7 @@ Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-Applied-Data-Science-Capstone-Project-V2)**
 - **Digital Credential:** [**Credly Professional Badge of Competency!**](https://www.credly.com/badges/5811b8ae-de5c-4907-88a5-d4d6d5fab0a9)
 
-![pl](images/IBM-DS_PC.png)
+[![pl](images/IBM-DS_PC.png)](https://www.credly.com/badges/5811b8ae-de5c-4907-88a5-d4d6d5fab0a9)
 
 - **Skills:**  
 Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Probability · Statistics · Statistical Analysis · Hypothesis Testing · ANOVA · Python (Programming Language) · Jupyter Notebook · Pandas (Software) · NumPy · SciPy · Matplotlib · Seaborn · Folium · Flask · Data Science · Bokeh Visualization Library · Machine Learning · Scikit-Learn · Supervised Learning · Unsupervised Learning
@@ -268,7 +268,7 @@ Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Alge
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-Data-Analytics-R-Capstone-Project)**
 - **Digital Credential:** [**Credly Professional Badge of Competency!**](https://www.credly.com/go/6Yln9QrsZlKYbZSgzeBeEA)
 
-![pl](images/GDA_PC.jpg)
+[![pl](images/GDA_PC.jpg)](https://www.credly.com/go/6Yln9QrsZlKYbZSgzeBeEA)
 
 - **Skills:**  
 Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance· Analytics· SQL· Excel· Tableau· BigQuery· R (Programming Language)· RStudio
@@ -286,7 +286,7 @@ Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance�
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-Data-Engineering-Capstone-Project-V2)**
 - **Digital Credential:** [**Credly Professional Badge of Competency!**](https://www.credly.com/badges/d2a32c7b-5b1e-4cd4-886c-3c3deeb6c78e)
   
-![pl](images/IBM-DE_PC.png)
+[![pl](images/IBM-DE_PC.png)](https://www.credly.com/badges/d2a32c7b-5b1e-4cd4-886c-3c3deeb6c78e)
 
 - **Skills:**  
 Data Governance · Exploratory Data Analysis · Data Architecture · Data Engineering · Data Modeling · Data Warehouse Architecture · Principal Component Analysis · SQL · NoSQL · Python (Programming Language) · Cassandra · Scala · IBM Db2 · MySQL · PostgreSQL · MongoDB · Extract, Transform, Load (ETL) · Apache Airflow · Apache Kafka · Big Data · ELT · MapReduce · Hadoop · Machine Learning · Pandas (Software) · NumPy · Matplotlib · SciPy · Scikit-Learn · Apache Spark
@@ -304,7 +304,7 @@ Data Governance · Exploratory Data Analysis · Data Architecture · Data Engine
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-IT-Automation-with-Python-Projects)**
 - **Digital Credential:** [**Credly Professional Badge of Competency!**](https://www.credly.com/badges/47116441-c734-4380-b36e-36c4eab41073)
   
-![pl](images/GITAP_PC.jpg)
+[![pl](images/GITAP_PC.jpg)](https://www.credly.com/badges/47116441-c734-4380-b36e-36c4eab41073)
 
 - **Skills:**  
 Python (Programming Language) · IT Automation · DevOps · Continuous Integration and Continuous Delivery (CI/CD) · Configuration Management · Git · GitHub · Puppet (Software) · Containerization · Kubernetes · Google Cloud Platform (GCP) · Google Kubernetes Engine (GKE)
