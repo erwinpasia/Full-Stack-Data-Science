@@ -181,7 +181,7 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
     </a>
 </p>
 
-## [Kaggle, Google, & DeepMind · 5-Day Generative AI Intensive Training 2025Q1](https://www.kaggle.com/erwinrpasia)
+## [Kaggle Generative AI Intensive 2025Q1 — Capstone in "Agentic AI Systems" with Google & Deepmind](https://www.kaggle.com/erwinrpasia)
 - [**Non-Degree**]()  
 - **Instructors:** Kaggle, Google, and DeepMind Machine Learning Experts-led Generative AI Intensive Training thru Kaggle Platform.
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google)**
