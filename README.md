@@ -111,7 +111,7 @@ TensorFlow · Keras · Python (Programming Language) · Pandas (Software) · Num
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-ATW-Fundamentals-of-Accelerated-Computing-with-CUDA-C_CPP)** 
 - **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=d747aca4c5f9467cb46d785ed401c6ea)
 
-![pl](images/FAC_CUDA_C_CPP.png)
+[![pl](images/FAC_CUDA_C_CPP.png)](https://learn.nvidia.com/certificates?id=d747aca4c5f9467cb46d785ed401c6ea)
 
 - **Skills:**  
 C (Programming Language) · C++ (Programming Language) · CUDA
@@ -211,9 +211,9 @@ Agentic AI, AI Agent & RAG Systems: Retrieval-Augmented Generation (RAG), Agenti
 - [**Non-Degree**]()  
 - **Instructors:** IBM Experts-led Generative AI Engineering Specialization Training thru Coursera Learning Platform.
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-Project-Generative-AI-Applications-with-RAG-and-LangChain)**
-- **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.coursera.org/account/accomplishments/specialization/certificate/Q9WBXKL7Z4LF)
+- **Digital Credential:** [**Specialization Certificate of Competency!**](https://www.credly.com/badges/729b28b7-e25f-4a85-b1b3-bd0b48897c68)
 
-[![pl](images/IBM-GAILLMS-SC.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/Q9WBXKL7Z4LF)
+[![pl](images/IBM-GAILLMS-SC.png)](https://www.credly.com/badges/729b28b7-e25f-4a85-b1b3-bd0b48897c68)
 
 - **Skills:**  
 Direct Preference Optimization (DPO), Generative AI Architecture, Hugging Face, LangChain, Large Language Models, LoRA and QLoRA, NLP Model Fine-Tuning, Proximal Policy Optimization (PPO), PyTorch, Reinforcement Learning From Human Feedback (RLHF), Retrieval-augmented Generation (RAG)
