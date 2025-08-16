@@ -188,12 +188,8 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 - **Digital Credential:** [**Badge Certificate!**](https://www.kaggle.com/certification/badges/erwinrpasia/96)
 
 ![pl](images/Kaggle_5-Day_Gen-AI_Intensive.png)
+[![pl](images/Kaggle_5-Day_Gen-AI_Intensive.png)](https://www.kaggle.com/certification/badges/erwinrpasia/96)
 
-<p style="text-align:center">
-    <a href="https://www.kaggle.com/certification/badges/erwinrpasia/96" target="_blank">
-    <img src="images/Kaggle_5-Day_Gen-AI_Intensive.png" alt="Kaggle | Google | DeepMind"  />
-    </a>
-</p>
 
 - **Skills:**  
 Agentic AI, AI Agent & RAG Systems: Retrieval-Augmented Generation (RAG), Agentic RAG, Multi-Agent Systems, ReAct (Reason and Act) Framework, Chain of Thought (CoT) Prompting, Vector Database Optimization, Embedding Model Training
