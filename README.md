@@ -4,14 +4,14 @@
 > "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives—for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
 
 ## 1. Common Misconceptions About AI:
-![pl](images/What_People_Think_of_AI.jpg)
+[![pl](images/What_People_Think_of_AI.jpg)](https://github.com/erwinpasia/Full-Stack-Data-Science)
 
 AI is often mistakenly viewed as a "black box"—a seemingly magical process where raw data enters, and actionable insights exit, with little understanding of what happens in between. This view can be misleading, as it oversimplifies the intricate work involved. "AI is not magic; it’s the synergy of Applied Mathematics, sophisticated Algorithms, Computer Science, and immense volumes of data". Behind the scenes, achieving meaningful AI outcomes requires a rigorous multi-step process that goes far beyond merely feeding data into a model.
 
 In reality, AI applications involve a journey that includes data preparation, model development, and continuous monitoring to ensure both accuracy and ethical considerations. AI, is not a one-step pipeline but a complex process involving methodical effort across data engineering, modeling, and iteration. Only through this multi-layered approach can AI reach its full potential, delivering insights that are accurate, ethical, and truly valuable.
 
 ## 2. Addressing AI's Constraints:
-![pl](images/What_Are_the_Constraints_Of_AI.jpg)
+[![pl](images/What_Are_the_Constraints_Of_AI.jpg)](https://github.com/erwinpasia/Full-Stack-Data-Science)
 
 To deploy AI responsibly, it's essential to navigate several constraints:
 
@@ -26,7 +26,7 @@ To deploy AI responsibly, it's essential to navigate several constraints:
 These factors guide responsible AI development, ensuring the systems we create are trustworthy, ethical, and secure.
 
 ## 3. Understanding the Real AI Process:
-![pl](images/What_Actually_Is_AI.jpg)
+[![pl](images/What_Actually_Is_AI.jpg)](https://github.com/erwinpasia/Full-Stack-Data-Science)
 
 AI isn’t just about data in and insights out—it’s a complex, multi-disciplinary process. Here's a closer look at the key stages:
 
@@ -60,7 +60,7 @@ Based on Monica Rogati’s "Data Science Hierarchy of Needs," the curriculum pro
 
 - **Data Collection Automation:** *Efficient data extraction using advanced tools and programming languages (e.g., Python, APIs, web scraping).*
 
-![pl](images/The_Techpreneur.png)
+[![pl](images/The_Techpreneur.png)](https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/docs/Erwin_R_Pasia_Techpreneur_-_Professional-Credentials.pdf)
 
 Akin to the goal of an MVP (Minimum Viable Product) which is to test a product hypothesis using minimal resources, gather insights on customer needs, and iterate rapidly based on real user feedback.
 
