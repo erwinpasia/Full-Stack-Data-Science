@@ -266,9 +266,9 @@ Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Alge
 - [**Advanced-Degree Credits Eligible**](https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=Google&cid=c6eec71c-c86b-ef11-bfe3-6045bd0685c2&oid=3fdb1492-e04f-e911-a97b-000d3a363c81)  
 - **Instructors:** Google Experts-led Data Analytics Professional Training thru Coursera Learning Platform.
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP-Data-Analytics-R-Capstone-Project)**
-- **Digital Credential:** [**Credly Professional Badge of Competency!**](https://www.credly.com/go/6Yln9QrsZlKYbZSgzeBeEA)
+- **Digital Credential:** [**Credly Professional Badge of Competency!**](https://www.credly.com/badges/06abf21b-b15c-4cc1-ba73-f9b5c75c0071)
 
-[![pl](images/GDA_PC.jpg)](https://www.credly.com/go/6Yln9QrsZlKYbZSgzeBeEA)
+[![pl](images/GDA_PC.jpg)](https://www.credly.com/badges/06abf21b-b15c-4cc1-ba73-f9b5c75c0071)
 
 - **Skills:**  
 Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance· Analytics· SQL· Excel· Tableau· BigQuery· R (Programming Language)· RStudio
