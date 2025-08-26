@@ -42,11 +42,12 @@ AI isn’t just about data in and insights out—it’s a complex, multi-discipl
 
 Throughout the process, it’s essential to address constraints like legal, ethical, and security concerns, ensuring AI is both effective and responsible.
 
-## 4. Building a Full-Stack Data Science Skillset:
-
-A Full-Stack Data Science skillset provides a solid understanding of the entire AI and data pipeline, from data selection to deploying AI models in production. These trainings, reinforced by real-world capstone projects, build professional-level competence in end-to-end data science (E2EDS). Offered by a leading research university and top tech companies specializing in GPU-accelerated computing, data, AI, and automation. They also create potential pathways to advanced-degree opportunities.
+## 4. Building a Techpreneur Skillset: Full-Stack Data Science + Entrepreneurship
+A Techpreneur skillset that combines Full-Stack Data Science with Entrepreneurship provides the foundation to build and scale innovative tech ventures. It develops a holistic understanding of the AI and data pipeline; spanning data selection, model development, and deployment in production, while integrating business strategy, innovation, and market scalability. Through hands-on capstone projects, learners gain professional-level expertise in end-to-end data science (E2EDS), paired with entrepreneurial acumen to transform ideas into viable, scalable startups. Delivered in collaboration with leading research universities and top technology companies specializing in GPU-accelerated computing, AI, data, and automation, the program not only builds real-world competence but also opens pathways to advanced-degree opportunities and future-focused leadership in tech entrepreneurship.
 
 Based on Monica Rogati’s "Data Science Hierarchy of Needs," the curriculum provides a strong foundation in both the theory and practical application of data science, covering key competencies:
+
+- **Entrepreneurship Specialization:** *Focused on building scalable ventures through strategic leadership and techpreneurship. Expertise includes business model development, market analysis and customer insights, lean startup methodologies and MVP creation, team building and leadership, strategic growth planning, startup financing and profitability, pitching and communications, as well as innovation and problem-solving.*
 
 - **GPU-Accelerated Computing & High-Performance Computing (HPC):** *Utilizing advanced hardware and GPU acceleration for faster model training, enabling handling of large-scale data science workloads.*
 
