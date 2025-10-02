@@ -1,4 +1,4 @@
-# **Full-Stack (E2E) Data Science Version 2.0 (Techpreneur):** 
+# **Applied AI Engineering & E2E Data Science (Techpreneur):** 
 ### *(Developing a solid technical foundation for end-to-end data science — E2E-DS)*
 
 > "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives—for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
@@ -42,8 +42,8 @@ AI isn’t just about data in and insights out—it’s a complex, multi-discipl
 
 Throughout the process, it’s essential to address constraints like legal, ethical, and security concerns, ensuring AI is both effective and responsible.
 
-## 4. Building a Techpreneur Skillset: Full-Stack Data Science + Entrepreneurship
-A Techpreneur skillset that combines Full-Stack Data Science with Entrepreneurship provides the foundation to build and scale innovative tech ventures. It develops a holistic understanding of the AI and data pipeline; spanning data selection, model development, and deployment in production, while integrating business strategy, innovation, and market scalability. Through hands-on capstone projects, learners gain professional-level expertise in end-to-end data science (E2EDS), paired with entrepreneurial acumen to transform ideas into viable, scalable startups. Delivered in collaboration with leading research universities and top technology companies specializing in GPU-accelerated computing, AI, data, and automation, the program not only builds real-world competence but also opens pathways to advanced-degree opportunities and future-focused leadership in tech entrepreneurship.
+## 4. Building a Techpreneur Skillset: Applied AI Engineering & E2E Data Science + Entrepreneurship
+A Techpreneur skillset that combines Applied AI Engineering & E2E Data Science with Entrepreneurship provides the foundation to build and scale innovative tech ventures. It develops a holistic understanding of the AI and data pipeline; spanning data selection, model development, and deployment in production, while integrating business strategy, innovation, and market scalability. Through hands-on capstone projects, learners gain professional-level expertise in end-to-end data science (E2EDS), paired with entrepreneurial acumen to transform ideas into viable, scalable startups. Delivered in collaboration with leading research universities and top technology companies specializing in GPU-accelerated computing, AI, data, and automation, the program not only builds real-world competence but also opens pathways to advanced-degree opportunities and future-focused leadership in tech entrepreneurship.
 
 Based on Monica Rogati’s "Data Science Hierarchy of Needs," the curriculum provides a strong foundation in both the theory and practical application of data science, covering key competencies:
 
