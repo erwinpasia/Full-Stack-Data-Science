@@ -88,9 +88,9 @@ Just as an MVP addresses immediate needs while allowing flexibility for future g
 - [**Advanced Technical Workshop**](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
 - **Instructors:** NVIDIA Experts-led Training (GTC Live and Virtual) thru Nvidia DLI platform.
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-Advanced-Technical-Workshop-Fundamentals-of-Accelerated-Data-Science-with-RAPIDS)** 
-- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11)
+- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=ftn3wQNgTWGxt7SvvoEt_g)
 
-[![pl](images/FADS_RAPIDS.png)](https://learn.nvidia.com/certificates?id=57ca45fb64524175b574af4fafa21e11)
+[![pl](images/FADS_RAPIDS.png)](https://learn.nvidia.com/certificates?id=ftn3wQNgTWGxt7SvvoEt_g)
 
 - **Skills:**  
 Data Science · RAPIDS · Python (Programming Language) · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy · TensorFlow · cuPy · cuDF · cuML · cuGraph
@@ -99,9 +99,9 @@ Data Science · RAPIDS · Python (Programming Language) · Pandas (Software) · 
 - [**Advanced Technical Workshop**](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
 - **Instructors:** NVIDIA Experts-led Training (GTC Live and Virtual) thru Nvidia DLI platform.
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-Advanced-Technical-Workshop-Fundamentals-of-Deep-Learning)** 
-- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=ef77185931c546b481ba51840fdd8cfa)
+- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=KaBzLsMHQ7WuRmGHkMNEVA)
 
- [![pl](images/FDL.png)](https://learn.nvidia.com/certificates?id=ef77185931c546b481ba51840fdd8cfa)
+ [![pl](images/FDL.png)](https://learn.nvidia.com/certificates?id=KaBzLsMHQ7WuRmGHkMNEVA)
 
 - **Skills:**  
 TensorFlow · Keras · Python (Programming Language) · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy
@@ -110,9 +110,9 @@ TensorFlow · Keras · Python (Programming Language) · Pandas (Software) · Num
 - [**Advanced Technical Workshop**](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
 - **Instructors:** NVIDIA Experts-led Training (GTC Live and Virtual) thru Nvidia DLI platform.
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-ATW-Fundamentals-of-Accelerated-Computing-with-CUDA-C_CPP)** 
-- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=d747aca4c5f9467cb46d785ed401c6ea)
+- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=2NmFO4ISQaGCCSDGXK3jdg)
 
-[![pl](images/FAC_CUDA_C_CPP.png)](https://learn.nvidia.com/certificates?id=d747aca4c5f9467cb46d785ed401c6ea)
+[![pl](images/FAC_CUDA_C_CPP.png)](https://learn.nvidia.com/certificates?id=2NmFO4ISQaGCCSDGXK3jdg)
 
 - **Skills:**  
 C (Programming Language) · C++ (Programming Language) · CUDA
@@ -121,9 +121,9 @@ C (Programming Language) · C++ (Programming Language) · CUDA
 - [**Advanced Technical Workshop**](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
 - **Instructors:** NVIDIA Experts-led Training (GTC Live and Virtual) thru Nvidia DLI platform.
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-ATW-Fundamentals-of-Accelerated-Computing-with-CUDA-Python)** 
-- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=bbfe2cfa7cee4ec995553febfcd1a033)
+- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=WrNAlI26Te2SG2p00EPnRw)
 
-[![pl](images/FAC_CUDA_Python.png)](https://learn.nvidia.com/certificates?id=bbfe2cfa7cee4ec995553febfcd1a033)
+[![pl](images/FAC_CUDA_Python.png)](https://learn.nvidia.com/certificates?id=WrNAlI26Te2SG2p00EPnRw)
 
 - **Skills:**  
 Python (Programming Language) · Numba · CUDA
@@ -132,9 +132,9 @@ Python (Programming Language) · Numba · CUDA
 - [**Advanced Technical Workshop**](https://learn.nvidia.com/en-us/training/instructor-led-workshops)
 - **Instructors:** NVIDIA Experts-led Training (GTC Live and Virtual) thru Nvidia DLI platform.
 - **Workshop Project Repo: [Github Link!](https://github.com/erwinpasia/NVIDIA-DLI-ATW-Getting-Started-in-AI-with-Jetson)** 
-- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=c2b5e792bba44971a17ab524d58fc9c8&trk)
+- **Digital Credential:** [**NVIDIA Certificate of Competency!**](https://learn.nvidia.com/certificates?id=95lYXKrHR9WKjKui_RscTg)
 
-[![pl](images/Getting_Started_Jetson_EdgeAI.png)](https://learn.nvidia.com/certificates?id=c2b5e792bba44971a17ab524d58fc9c8&trk)
+[![pl](images/Getting_Started_Jetson_EdgeAI.png)](https://learn.nvidia.com/certificates?id=95lYXKrHR9WKjKui_RscTg)
 
 - **Skills:**  
 NVIDIA Jetson Developer Kit · Edge AI · Python (Programming Language) · PyTorch · TensorFlow · CUDA · Pandas (Software) · NumPy · Matplotlib · Scikit-Learn · SciPy
