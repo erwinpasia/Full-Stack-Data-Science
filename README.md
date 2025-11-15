@@ -1,5 +1,5 @@
 ## **Applied AI Engineering & E2E Data Science (Techpreneur):** 
-### *(A solid technical foundation for applied AI engineering & end-to-end data science; A2iE-E2E-DS)*
+### *Solid technical foundations for Applied Ai Engineering & End-to-End Data Science; A2iE-E2E-DS*
 
 > "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives, for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
 
