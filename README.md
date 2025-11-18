@@ -1,5 +1,5 @@
 ## **Applied AI Engineering & E2E Data Science (Techpreneur):** 
-### *Solid technical foundations for Applied Ai Engineering & End-to-End Data Science; A2iE-E2E-DS*
+### *A rigorous, industry-aligned professional training program in Applied AI Engineering and End-to-End Data Science (A2iE-E2E-DS), purpose-built to accelerate career readiness through immersive learning experiences and real-world Capstone Projects.*
 
 > "Learning is the source of human progress. It has the power to transform our world from illness to health, from poverty to prosperity, from conflict to peace. It has the power to transform our lives, for ourselves, for our families, and for our communities. No matter who we are or where we are, learning empowers us to change, grow, and redefine what's possible." -Anonymous-
 
